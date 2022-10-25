@@ -17,8 +17,8 @@ sidebar:
     timezone: Singapore GMT+8 Timezone
     citizenship: Singapore
     website:  #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    linkedin: 
+    xing: 
     github: MKZawLin
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -56,18 +56,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A 34 years old Electrical Engineer who fell in love with
+      Programming in 2010 and they lived happily ever after.
+      
+      With a unique blend of electrical and electronics engineering background
+      coupled with programming capabilities, I play both ends of the field,
+      hardware & software in my role as a Technology Development Engineer.
+      My current areas of interests are in Artificial Intelligence (AI)
+      Technologies, Embedded Vision systems and Robotics. In my free time, I
+      provide the mentorship and training in those fields.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Computer Control and Automation
+        university: Nanyang Technological University
+        time: 2017 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +79,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Electrical and Electronics Engineering
+        university: Nanyang Technological University
+        time: 2009 - 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
