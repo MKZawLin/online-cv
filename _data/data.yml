@@ -102,14 +102,13 @@ projects:
     title: Projects
     intro: >
       The following projects listed below are the value generating work being produced as a technology development engineer in ITE College East.
-    details:
+    details: |
       - Testing Details Lines
     
     assignments:
       - title: MOE-TIF Project -- Touch Screen Interface
         link: 
-        tagline: |
-          - Test 
+        tagline: Test 
 
       - title: DevStudio
         link:
