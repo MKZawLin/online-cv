@@ -88,21 +88,25 @@ experiences:
         time: 2013 - Present
         company: Technology Development Center / ITE College East, Singapore
         details: |
-          • Department's IOT, Vision and Automation specialist
-          • Project Lead for Electronic projects
-          • Technical Lead for Software projects
-          • In charge of scoping, validation and implementation of internal as well as external commercial projects
-          • Project Management Skills: 
+          Oversee responsibility for the management of projects including establishing optimum process flow. 
+          Develop project proposal plan, implementation plan, budget planning, system integration, follow up with clients to ensure customer satisfaction.
+          Department's IOT, Vision and Automation specialist
+                         
+          Project Management Skills: 
             - Waterfall , Agile
             - Cost Control  
             - Time Management
             - MS Office Suite for documentation, communication and data analysis reports
+
 projects:
     title: Projects
     intro: >
       The following projects listed below are the value generating work being produced as a technology development engineer in ITE College East.
+    details:
+      - Testing Details Lines
+    
     assignments:
-      - title: Velocity
+      - title: MOE-TIF Project -- Touch Screen Interface
         link: 
         tagline: |
           - Test 
