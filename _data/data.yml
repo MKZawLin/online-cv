@@ -20,14 +20,14 @@ sidebar:
     linkedin: 
     xing: 
     github: MKZawLin
-    telegram: # add your nickname without '@' sign
+    telegram: MK_ZL # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 20335930/mkzawlin # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+    pdf:  # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -73,8 +73,8 @@ education:
         time: 2017 - 2018
         details: |
           Specialisation in Vision System and Machine Learning Models
-            - C/C++ programming for all vision system with OPENCV
-            - Used VGG16 architecture for coursework
+            - C/C++ programming for all vision system with openCV
+            - Used VGG16 architecture for vision (AI)
       - degree: BSc in Electrical and Electronics Engineering
         university: Nanyang Technological University
         time: 2009 - 2013
@@ -84,68 +84,43 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technology Development Engineer
+        time: 2013 - Present
+        company: Technology Development Center / ITE College East, Singapore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          • Department's IOT, Vision and Automation specialist
+          • Project Lead for Electronic projects
+          • Technical Lead for Software projects
+          • In charge of scoping, validation and implementation of internal as well as external commercial projects
+          • Project Management Skills: 
+            - Waterfall , Agile
+            - Cost Control  
+            - Time Management
+            - MS Office Suite for documentation, communication and data analysis reports
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following projects listed below are the value generating work being produced as a technology development engineer in ITE College East.
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: 
+        tagline: |
+          - Test 
 
       - title: DevStudio
-        link: "#"
+        link:
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
-        link: "#"
+        link:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
-        link: "#"
+        link:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
-        link: "#"
+        link:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
