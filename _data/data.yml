@@ -101,15 +101,32 @@ experiences:
 projects:
     title: Projects
     intro: >
-      The following projects listed below are the value generating work being produced as a technology development engineer in ITE College East.
-        
+      Multitude of projects undertaken, spanning across multiple discipline and technologies.  
     assignments:
-      - title: MOE-TIF Project -- Touch Screen Interface
+      - title: MOE-TIF Project - Touch Screen Interface
         link: 
         tagline:
+        details: |
+          - Collaboration between NTU ITE
+          - Project Value $SGD 451,000
+          - Reverse engineer, resized, fabricated an electronic board based on the ADI Signal Processing Unit (Altium)
+          - Test and verify signal integrity of developed board (RTE 1104 Oscilloscope)
+          - Wrote an application software to test the accuracy of the touch screen interface system (QT Creator)
+          - Wrote a research paper Accepted by IJACEN Published in 2015
+    assignments:
+      - title: Vision Systems
+        link: 
+        tagline:
+        details: |
+        Object Analysis
+          - Test2
+        Facial Recognition
+          - Test2
+        Human Detection
+          - Test2
+        Training (Embedded System)
+          - Test2
 
-    details: |
-      - Testing Details Lines
 
 publications:
     title: Publications
