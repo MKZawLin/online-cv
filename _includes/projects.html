@@ -16,12 +16,6 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% if projects.details %}
-  <div class="details">
-      <p>{{ projects.details }}</p>
-  </div><!--//details-->
-  {% endif %}
-
   {% for project in projects.assignments %}
     <div class="item">
 
@@ -39,6 +33,12 @@
 
     </div><!--//item-->
   {% endfor %}
+
+  {% if projects.details %}
+  <div class="details">
+      <p>{{ projects.details }}</p>
+  </div><!--//details-->
+  {% endif %}
 
 </section><!--//section-->
 {% endif %}
