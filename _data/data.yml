@@ -113,7 +113,7 @@ projects:
           - Test and verify signal integrity of developed board (RTE 1104 Oscilloscope)
           - Wrote an application software to test the accuracy of the touch screen interface system (QT Creator)
           - Wrote a research paper Accepted by IJACEN Published in 2015
-    assignments:
+    
       - title: Vision Systems
         link: 
         tagline:
