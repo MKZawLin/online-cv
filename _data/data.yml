@@ -108,7 +108,7 @@ projects:
         tagline:
         details: |
           - Collaboration between NTU & ITE
-          - Project Value SGD 451,000
+          - Project value: SGD 451,000
           - Reverse engineer, resized, fabricated an electronic board based on the ADI Signal Processing Unit (Altium)
           - Test and verify signal integrity of developed board (RTE 1104 Oscilloscope)
           - Wrote an application software to test the accuracy of the touch screen interface system (QT Creator)
@@ -118,15 +118,15 @@ projects:
         link: 
         tagline:
         details: |
-          - Partner: PlanetAsia Pte Ltd
-          - Project Value SGD 10,000
+          - Industry Partner: PlanetAsia Pte Ltd
+          - Project value: SGD 10,000
           - Software development for visual inspection of quartz mineral (C#)
 
       - title: Facial Recognition (Vision Systems)
         link: 
         tagline:
         details: |
-          - Project Value SGD 35,000
+          - Project value: SGD 35,000
           - Software development for facial detction and recognition for entry/exit of venue (OpenCV & C#)
           - Haar Cascade for detection, LPBH for recognition
 
@@ -134,7 +134,7 @@ projects:
         link: 
         tagline:
         details: |
-          - Project Value SGD5,000
+          - Project value: SGD 5,000
           - Webcam monitoring of lab with Telegram notification
           - Microsoft Azure Cognitive Service (C#)
 
@@ -148,26 +148,63 @@ projects:
             - Intrusion Alert
             - Pest Detection
 
+      - title: DJI Matrice 100 Drone Command and Control
+              link: 
+              tagline:
+              details: |
+                - Warehouse Stock Taking Application
+                - Project value: SGD 192,000 funded by Enterprise Singapore
+                - Code written for Command and Control (C# with DJI onBoard SDK)
+                - Code written for Telemetry and Communication Protocol
+                  - Ubuntu 18.04 LTS Bionic Beaver
+                  - 915/433 MHz radio with UP-CHT01 board
+                - Integration of SICK TiM5xx LiDAR using ROS (Melodic Meronia) framework for Mapping and Localization
+
+      - title: DJI Mavic 2 Enterprise Drone Command and Control
+              link: 
+              tagline:
+              details: |
+                - Potential Project value: SGD 370,000
+                - POC success with fiducial markers for indoor localisation
+                - Basic Integration of M2E with Omron LD90 AGV
+
+      - title: ITE In-house built Autonomous Guided Vehicle
+              link: 
+              tagline:
+              details: |
+                - Project value: SGD 40,000
+                - Integrated BLD300 with arduino for movement control
+                - Code written for Telemetry and Control Protocol
+                  - Ubuntu 18.04 LTS Bionic Beaver
+                  - 915 MHz radio with UP-CHT01 board
+                - Integration of SICK TiM5xx LiDAR using ROS (Melodic Meronia) framework for Mapping and Localization 
+
+      - title: IOT soil sensor for indoor farming
+              link: 
+              tagline:
+              details: |
+                - Code written for ESP32 DHT11 CP2104 Soil Sensor (Arduino platform)
+                - Program written to read sensor data and publish on to cloud
+                  - MQTT Protocol
+
+      - title: AI Student Profiler POC
+              link: 
+              tagline:
+              details: |
+                - Project value: SGD 45,000
+                - Tensorflow/Keras framework (Python)
+                - 330 datasets achieved 78% accuracy with 0.26 loss
+                - Lead a team of 16 students and 3 staff on data collection and training them on machine learning model
+
 publications:
     title: Publications
-    intro: |
-      Add Intro Here... 
+    intro:
 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51-55"
+      - title: Effective Surface Area of Operation for the TIF-HA Onset Detection Algorithm for Human-Computer Touch Interface
+        link: http://ijacen.iraj.in/paper_detail.php?paper_id=1876&name=Effective_Surface_Area_of_Operation_for_the_Tif-Ha_Onset_Detection_Algorithm_for_Human-Computer_Touch_Interface
+        authors: K.Z.L. Maung, C.L Sam, T.W Chu
+        conference: International Journal of Advance ComputationalEngineering and Networking (IJACEN), Singapore 2015
 
 skills:
     title: Skills &amp; Proficiency
