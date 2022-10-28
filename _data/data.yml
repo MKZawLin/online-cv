@@ -117,22 +117,13 @@ projects:
       - title: Vision Systems
         link: 
         tagline:
-        details: |
-        Object Analysis
-          - Test2
-        Facial Recognition
-          - Test2
-        Human Detection
-          - Test2
-        Training (Embedded System)
-          - Test2
-
+        details: Object Analysis
 
 publications:
     title: Publications
     intro: |
       CHECKING UPDATE SPEED 1.
-      
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
