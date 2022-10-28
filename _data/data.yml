@@ -131,9 +131,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      CHECKING UPDATE SPEED 1.
+      
     papers:
       - title: The Art of Computer Programming
         link: "#"
