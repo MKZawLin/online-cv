@@ -107,13 +107,40 @@ projects:
         link: 
         tagline:
         details: |
-          - Collaboration between NTU ITE
+          - Collaboration between NTU & ITE
           - Project Value $SGD 451,000
           - Reverse engineer, resized, fabricated an electronic board based on the ADI Signal Processing Unit (Altium)
           - Test and verify signal integrity of developed board (RTE 1104 Oscilloscope)
           - Wrote an application software to test the accuracy of the touch screen interface system (QT Creator)
-          - Wrote a research paper Accepted by IJACEN Published in 2015
+          - Wrote a research paper. Accepted by IJACEN Published in 2015
     
+      - title: Vision Systems
+        link: 
+        tagline:
+        details: Object Analysis
+
+      - title: Vision Systems
+        link: 
+        tagline:
+        details: |
+        Object Analysis
+        - Project Value $SGD 10,000
+        - Software Development for visual inspeciton of quartz mineral (C#)
+
+        Facial Recognition
+        - Project Value $SGD 35,000
+        - Software Development for facial detection and recognition for entry and exit for venue
+        - Haar Cascade for Detection, LPBH for recognition
+
+        Human Detection
+        
+        
+
+      - title: Vision Systems
+        link: 
+        tagline:
+        details: Object Analysis
+
       - title: Vision Systems
         link: 
         tagline:
@@ -122,7 +149,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      CHECKING UPDATE SPEED 1.
+      Add Intro Here... 
 
     papers:
       - title: The Art of Computer Programming
