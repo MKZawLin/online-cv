@@ -130,15 +130,23 @@ projects:
           - Software development for facial detction and recognition for entry/exit of venue (OpenCV & C#)
           - Haar Cascade for detection, LPBH for recognition
 
-      - title: Vision Systems
+      - title: Human Detection (Portable Vision System)
         link: 
         tagline:
-        details: Object Analysis
+        details: |
+          - Project Value SGD5,000
+          - Webcam monitoring of lab with Telegram notification
+          - Microsoft Azure Cognitive Service (C#)
 
-      - title: Vision Systems
+      - title: IOT student applications (Embedded System)
         link: 
         tagline:
-        details: Object Analysis
+        details: |
+          - Developed object detection with OpenMV cameras
+          - Developed training application for students
+            - Leaf Growth Detection
+            - Intrusion Alert
+            - Pest Detection
 
 publications:
     title: Publications
