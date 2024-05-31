@@ -190,6 +190,16 @@ projects:
           - Tensorflow/Keras framework (Python)
           - 330 datasets achieved 78% accuracy with 0.26 loss
           - Lead a team of 16 students and 3 staff on data collection and training them on machine learning model
+        
+      - title: Metaverse Build and Training
+        link: 
+        tagline:
+        details: |
+          - Project value: SGD 35,000
+          - The Sandbox Platform
+          - Pilot run of school education lesson plan related to blockchain technology
+          - 4th in Philippines's Game Jam : Usbong Hiraya
+          - 4th in Singapore's Game Jam: SheInspires
 
 publications:
     title: Publications
